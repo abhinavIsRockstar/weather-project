@@ -1,0 +1,14 @@
+.sign-up-container{
+    /* padding: 120px; */
+    font-size: 1.2rem;    
+    background: no-repeat center url('../images/mountain.jpg');
+    padding-top: 0px;
+}
+
+label{
+    /* color: black;
+    font-weight: 600;
+    margin: 15px; */
+    /* background: red; */
+   
+}

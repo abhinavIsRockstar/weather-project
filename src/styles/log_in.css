@@ -1,0 +1,36 @@
+.log-in-main{
+    background: url('../images/south_indian_temple.jpg');
+    padding: 1px;
+    
+}
+.log-in-form{
+    /* padding: 113px; */
+    margin: 100px;
+    background: white;
+    padding-top: 10px;
+    padding-bottom: 149px;
+    width: 60%; 
+}
+
+h1{
+    color: black;
+}
+
+button{
+    width: 329px;
+    height: 50px;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 600;
+    background: black;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-top: 46px;
+}
+.logged-in{
+    background: url('../images/mountain.jpg');
+}
+
+.logged-in-home{
+    background: gray;
+}
